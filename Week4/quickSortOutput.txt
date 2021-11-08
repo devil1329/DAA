@@ -1,0 +1,12 @@
+comparisons = 24
+swaps = 22
+sorted array = 21 23 32 45 46 65 76 89 
+
+comparisons = 26
+swaps = 22
+sorted array = 21 32 34 46 51 54 65 76 78 97 
+
+comparisons = 49
+swaps = 36
+sorted array = 12 22 31 42 46 54 63 65 86 225 324 325 553 645 652 
+
